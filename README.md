@@ -5,7 +5,7 @@ Python analysis and an interactive dashboard for the **COM7021 Data Visualisatio
 The project studies 5,000 daily records (2024–2025) from EcoMove Mobility, a sustainable urban transport operator.
 It looks at five areas: demand, reliability, finance, accessibility and sustainability.
 
-![Dashboard](figures/dashboard_all.png)
+
 
 ## Questions the project answers
 
