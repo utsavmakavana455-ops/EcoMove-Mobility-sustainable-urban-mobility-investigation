@@ -50,9 +50,6 @@ It looks at five areas: demand, reliability, finance, accessibility and sustaina
 - 7 charts arranged from overview to detail.
 - A warning appears when fewer than 100 records match the filters.
 
-```
-
-Run the commands from the repository folder; the scripts look for `EcoMoveMobility.xlsx` in the current folder.
 
 ## Libraries
 
